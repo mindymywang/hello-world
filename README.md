@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I am rookie for GitHub and try first github project
